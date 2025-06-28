@@ -1,4 +1,4 @@
-# Pandas DataFrame Essentials 🐼
+# Pandas DataFrame Practice🐼
 
 This repository contains a beginner-friendly Google Colab notebook that covers all the essential operations using the **Pandas** library for data analysis and manipulation. Whether you're new to Pandas or need a structured refresher, this notebook demonstrates the most commonly used features of a DataFrame.
 
