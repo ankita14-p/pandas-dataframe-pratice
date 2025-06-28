@@ -1,6 +1,6 @@
 # Pandas DataFrame Practice🐼
 
-This repository contains a beginner-friendly Google Colab notebook that covers all the essential operations using the **Pandas** library for data analysis and manipulation. Whether you're new to Pandas or need a structured refresher, this notebook demonstrates the most commonly used features of a DataFrame. All concepts learnt from Youtube Channel- Siddhardhan (ML Playlist)
+This repository contains a beginner-friendly Google Colab notebook that covers all the essential operations using the **Pandas** library for data analysis and manipulation. Whether you're new to Pandas or need a structured refresher, this notebook demonstrates the most commonly used features of a DataFrame. 
 
 ## 📌 Key Concepts Covered
 
@@ -33,13 +33,17 @@ This repository contains a beginner-friendly Google Colab notebook that covers a
 - 📊 Pandas
 - 📓 Google Colab
 
-## 🚀 Getting Started
+## 📁 Files
 
-1. Click the **"Open in Colab"** button above to start the notebook in your browser.
-2. Follow along with the examples and outputs.
-3. Modify the code to experiment with your own datasets.
+- `pandas1.ipynb` – Main notebook
+- `README.md` – Project description
 
 ---
+
+## 🧠 Source of Learning
+
+📺 Learned from Youtube Channel: **[Siddhardhan]**
+
 
 
 
